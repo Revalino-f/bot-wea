@@ -1,0 +1,827 @@
+{
+   "users": [
+      {
+         "jid": "6285784785293@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6285784785293@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681797438782,
+         "hit": 2,
+         "spam": 0,
+         "warning": 0,
+         "usebot": 1681788253407
+      },
+      {
+         "jid": "6281211944629@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6281211944629@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681790080597,
+         "hit": 1,
+         "spam": 1,
+         "warning": 0,
+         "usebot": 1681789780058
+      },
+      {
+         "jid": "6289519259294@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6289519259294@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 14,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681797432237,
+         "hit": 32,
+         "spam": 0,
+         "warning": 0,
+         "usebot": 1681797432296
+      },
+      {
+         "jid": "6285256791045@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6285256791045@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681794713475,
+         "hit": 0,
+         "spam": 1,
+         "warning": 0
+      },
+      {
+         "jid": "6289514061857@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6289514061857@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681791556352,
+         "hit": 0,
+         "spam": 1,
+         "warning": 0
+      },
+      {
+         "jid": "6282346739074@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6282346739074@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681793848567,
+         "hit": 0,
+         "spam": 0,
+         "warning": 0
+      },
+      {
+         "jid": "6281387285836@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6281387285836@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681793475725,
+         "hit": 0,
+         "spam": 0,
+         "warning": 0
+      },
+      {
+         "jid": "6282124331918@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6282124331918@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681794807943,
+         "hit": 3,
+         "spam": 1,
+         "warning": 0,
+         "usebot": 1681794807967
+      },
+      {
+         "jid": "6282152519989@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6282152519989@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681793764901,
+         "hit": 0,
+         "spam": 0,
+         "warning": 0
+      },
+      {
+         "jid": "6285329205600@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6285329205600@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681794292543,
+         "hit": 0,
+         "spam": 1,
+         "warning": 0
+      },
+      {
+         "jid": "6285708572025@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6285708572025@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681794739330,
+         "hit": 0,
+         "spam": 1,
+         "warning": 0
+      },
+      {
+         "jid": "6285320514860@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6285320514860@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681794742861,
+         "hit": 0,
+         "spam": 1,
+         "warning": 0
+      },
+      {
+         "jid": "6287733051381@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6287733051381@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681794835693,
+         "hit": 0,
+         "spam": 0,
+         "warning": 0
+      },
+      {
+         "jid": "6285782868679@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6285782868679@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681794774665,
+         "hit": 0,
+         "spam": 1,
+         "warning": 0
+      },
+      {
+         "jid": "6285779095469@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6285779095469@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681795061804,
+         "hit": 0,
+         "spam": 0,
+         "warning": 0
+      },
+      {
+         "jid": "6282351671029@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6282351671029@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681795040052,
+         "hit": 0,
+         "spam": 1,
+         "warning": 0
+      },
+      {
+         "jid": "6287848776629@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6287848776629@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 0,
+         "hit": 0,
+         "spam": 0,
+         "warning": 0
+      },
+      {
+         "jid": "6282115187418@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6282115187418@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681795118005,
+         "hit": 0,
+         "spam": 1,
+         "warning": 0
+      },
+      {
+         "jid": "6287862921247@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6287862921247@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681795122377,
+         "hit": 0,
+         "spam": 1,
+         "warning": 0
+      },
+      {
+         "jid": "6282339989817@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6282339989817@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681795492947,
+         "hit": 0,
+         "spam": 1,
+         "warning": 0
+      },
+      {
+         "jid": "6285879718572@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6285879718572@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681796080935,
+         "hit": 0,
+         "spam": 1,
+         "warning": 0
+      },
+      {
+         "jid": "6281212949254@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6281212949254@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681796129312,
+         "hit": 1,
+         "spam": 0,
+         "warning": 0,
+         "usebot": 1681796129351
+      },
+      {
+         "jid": "6285161691502@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6285161691502@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681797501628,
+         "hit": 0,
+         "spam": 0,
+         "warning": 0
+      },
+      {
+         "jid": "6285787233052@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "name": "6285787233052@s.whatsapp.net",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1681797186579,
+         "hit": 0,
+         "spam": 0,
+         "warning": 0
+      }
+   ],
+   "chats": [
+      {
+         "jid": "6285784785293@s.whatsapp.net",
+         "chat": 4,
+         "lastchat": 0,
+         "lastseen": 1681788253004,
+         "command": 1681788253407
+      },
+      {
+         "jid": "6285782784611-1555428336@g.us",
+         "chat": 59,
+         "lastchat": 0,
+         "lastseen": 1681796724956,
+         "command": 1681796722210
+      },
+      {
+         "jid": "6289519259294@s.whatsapp.net",
+         "chat": 69,
+         "lastchat": 0,
+         "lastseen": 1681797438782,
+         "command": 1681797432296
+      },
+      {
+         "jid": "6281328106250-1615974245@g.us",
+         "chat": 1,
+         "lastchat": 0,
+         "lastseen": 1681791556352,
+         "command": 0
+      },
+      {
+         "jid": "6285779095469-1593035287@g.us",
+         "chat": 6,
+         "lastchat": 0,
+         "lastseen": 1681795118005,
+         "command": 0
+      },
+      {
+         "jid": "6285779095469-1611278313@g.us",
+         "chat": 4,
+         "lastchat": 0,
+         "lastseen": 1681795070078,
+         "command": 0
+      },
+      {
+         "jid": "6287716269429-1625810962@g.us",
+         "chat": 5,
+         "lastchat": 0,
+         "lastseen": 1681796080935,
+         "command": 0
+      },
+      {
+         "jid": "status@broadcast",
+         "chat": 4,
+         "lastchat": 0,
+         "lastseen": 1681797501628,
+         "command": 0
+      }
+   ],
+   "groups": [
+      {
+         "jid": "6285782784611-1555428336@g.us",
+         "activity": 1681796724956,
+         "autoread": true,
+         "antidelete": true,
+         "antilink": false,
+         "antivirtex": false,
+         "filter": false,
+         "left": false,
+         "localonly": false,
+         "mute": false,
+         "member": {
+            "6281211944629@s.whatsapp.net": {
+               "lastseen": 1681790080608,
+               "warning": 0
+            },
+            "6282346739074@s.whatsapp.net": {
+               "lastseen": 1681793848782,
+               "warning": 0
+            },
+            "6281387285836@s.whatsapp.net": {
+               "lastseen": 1681793475739,
+               "warning": 0
+            },
+            "6282124331918@s.whatsapp.net": {
+               "lastseen": 1681794807957,
+               "warning": 0
+            },
+            "6282152519989@s.whatsapp.net": {
+               "lastseen": 1681793764914,
+               "warning": 0
+            },
+            "6289519259294@s.whatsapp.net": {
+               "lastseen": 1681796722198,
+               "warning": 0
+            },
+            "6285256791045@s.whatsapp.net": {
+               "lastseen": 1681794713496,
+               "warning": 0
+            },
+            "6285320514860@s.whatsapp.net": {
+               "lastseen": 1681794742873,
+               "warning": 0
+            },
+            "6281212949254@s.whatsapp.net": {
+               "lastseen": 1681796129339,
+               "warning": 0
+            }
+         },
+         "text_left": "",
+         "text_welcome": "",
+         "welcome": true,
+         "expired": 0,
+         "stay": false
+      },
+      {
+         "jid": "6281328106250-1615974245@g.us",
+         "activity": 1681791556352,
+         "autoread": true,
+         "antidelete": true,
+         "antilink": false,
+         "antivirtex": false,
+         "filter": false,
+         "left": false,
+         "localonly": false,
+         "mute": false,
+         "member": {
+            "6289514061857@s.whatsapp.net": {
+               "lastseen": 1681791556566,
+               "warning": 0
+            }
+         },
+         "text_left": "",
+         "text_welcome": "",
+         "welcome": true,
+         "expired": 0,
+         "stay": false
+      },
+      {
+         "jid": "120363045409834150@g.us",
+         "activity": 1681794292543,
+         "autoread": true,
+         "antidelete": true,
+         "antilink": false,
+         "antivirtex": false,
+         "filter": false,
+         "left": false,
+         "localonly": false,
+         "mute": false,
+         "member": {
+            "6285329205600@s.whatsapp.net": {
+               "lastseen": 1681794292557,
+               "warning": 0
+            }
+         },
+         "text_left": "",
+         "text_welcome": "",
+         "welcome": true,
+         "expired": 0,
+         "stay": false
+      },
+      {
+         "jid": "6285779095469-1593035287@g.us",
+         "activity": 1681795118005,
+         "autoread": true,
+         "antidelete": true,
+         "antilink": false,
+         "antivirtex": false,
+         "filter": false,
+         "left": false,
+         "localonly": false,
+         "mute": false,
+         "member": {
+            "6285708572025@s.whatsapp.net": {
+               "lastseen": 1681794739344,
+               "warning": 0
+            },
+            "6287733051381@s.whatsapp.net": {
+               "lastseen": 1681794835704,
+               "warning": 0
+            },
+            "6285782868679@s.whatsapp.net": {
+               "lastseen": 1681794774689,
+               "warning": 0
+            },
+            "6285779095469@s.whatsapp.net": {
+               "lastseen": 1681794787379,
+               "warning": 0
+            },
+            "6282115187418@s.whatsapp.net": {
+               "lastseen": 1681795118192,
+               "warning": 0
+            }
+         },
+         "text_left": "",
+         "text_welcome": "",
+         "welcome": true,
+         "expired": 0,
+         "stay": false
+      },
+      {
+         "jid": "6285779095469-1611278313@g.us",
+         "activity": 1681795070078,
+         "autoread": true,
+         "antidelete": true,
+         "antilink": false,
+         "antivirtex": false,
+         "filter": false,
+         "left": false,
+         "localonly": false,
+         "mute": false,
+         "member": {
+            "6285779095469@s.whatsapp.net": {
+               "lastseen": 1681795061815,
+               "warning": 0
+            },
+            "6282351671029@s.whatsapp.net": {
+               "lastseen": 1681795040064,
+               "warning": 0
+            }
+         },
+         "text_left": "",
+         "text_welcome": "",
+         "welcome": true,
+         "expired": 0,
+         "stay": false
+      },
+      {
+         "jid": "6287716269429-1625810962@g.us",
+         "activity": 1681796080935,
+         "autoread": true,
+         "antidelete": true,
+         "antilink": false,
+         "antivirtex": false,
+         "filter": false,
+         "left": false,
+         "localonly": false,
+         "mute": false,
+         "member": {
+            "6287862921247@s.whatsapp.net": {
+               "lastseen": 1681795122401,
+               "warning": 0
+            },
+            "6282339989817@s.whatsapp.net": {
+               "lastseen": 1681795492973,
+               "warning": 0
+            },
+            "6285879718572@s.whatsapp.net": {
+               "lastseen": 1681796080939,
+               "warning": 0
+            }
+         },
+         "text_left": "",
+         "text_welcome": "",
+         "welcome": true,
+         "expired": 0,
+         "stay": false
+      }
+   ],
+   "statistic": {
+      "ig": {
+         "hitstat": 7,
+         "today": 7,
+         "lasthit": 1681796021866,
+         "sender": "6289519259294"
+      },
+      "check": {
+         "hitstat": 1,
+         "today": 1,
+         "lasthit": 1681793013882,
+         "sender": "6289519259294"
+      },
+      "cerpen": {
+         "hitstat": 3,
+         "today": 3,
+         "lasthit": 1681794574981,
+         "sender": "6289519259294"
+      },
+      "sticker": {
+         "hitstat": 14,
+         "today": 14,
+         "lasthit": 1681797432302,
+         "sender": "6289519259294"
+      },
+      "mute": {
+         "hitstat": 2,
+         "today": 2,
+         "lasthit": 1681794594812,
+         "sender": "6289519259294"
+      },
+      "qc": {
+         "hitstat": 1,
+         "today": 1,
+         "lasthit": 1681794625694,
+         "sender": "6289519259294"
+      },
+      "remini": {
+         "hitstat": 1,
+         "today": 1,
+         "lasthit": 1681796080554,
+         "sender": "6289519259294"
+      },
+      "delete": {
+         "hitstat": 1,
+         "today": 1,
+         "lasthit": 1681796722210,
+         "sender": "6289519259294"
+      }
+   },
+   "sticker": {},
+   "setting": {
+      "autodownload": true,
+      "debug": false,
+      "chatbot": true,
+      "error": [],
+      "pluginDisable": [],
+      "groupmode": false,
+      "sk_pack": "Sticker",
+      "sk_author": "@neoxrs",
+      "self": false,
+      "mimic": [],
+      "noprefix": false,
+      "multiprefix": true,
+      "prefix": [
+         ".",
+         "/",
+         "!",
+         "#"
+      ],
+      "toxic": [
+         "ajg",
+         "ajig",
+         "anjas",
+         "anjg",
+         "anjim",
+         "anjing",
+         "anjrot",
+         "anying",
+         "asw",
+         "autis",
+         "babi",
+         "bacod",
+         "bacot",
+         "bagong",
+         "bajingan",
+         "bangsad",
+         "bangsat",
+         "bastard",
+         "bego",
+         "bgsd",
+         "biadab",
+         "biadap",
+         "bitch",
+         "bngst",
+         "bodoh",
+         "bokep",
+         "cocote",
+         "coli",
+         "colmek",
+         "comli",
+         "dajjal",
+         "dancok",
+         "dongo",
+         "fuck",
+         "gelay",
+         "goblog",
+         "goblok",
+         "guoblog",
+         "guoblok",
+         "hairul",
+         "henceut",
+         "idiot",
+         "itil",
+         "jamet",
+         "jancok",
+         "jembut",
+         "jingan",
+         "kafir",
+         "kanjut",
+         "kanyut",
+         "keparat",
+         "kntl",
+         "kontol",
+         "lana",
+         "loli",
+         "lont",
+         "lonte",
+         "mancing",
+         "meki",
+         "memek",
+         "ngentod",
+         "ngentot",
+         "ngewe",
+         "ngocok",
+         "ngtd",
+         "njeng",
+         "njing",
+         "njinx",
+         "oppai",
+         "pantek",
+         "pantek",
+         "peler",
+         "pepek",
+         "pilat",
+         "pler",
+         "pornhub",
+         "pucek",
+         "puki",
+         "pukimak",
+         "redhub",
+         "sange",
+         "setan",
+         "silit",
+         "telaso",
+         "tempek",
+         "tete",
+         "titit",
+         "toket",
+         "tolol",
+         "tomlol",
+         "tytyd",
+         "wildan",
+         "xnxx"
+      ],
+      "online": true,
+      "onlyprefix": "+",
+      "owners": [
+         "994408364923"
+      ],
+      "lastReset": 1681787826398,
+      "msg": "Hi +tag 🪸\nI am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n◦ *Library* : Baileys v+version\n◦ *Rest API* : https://api.neoxr.my.id\n◦ *Source* : https://github.com/neoxr/neoxr-bot\n\nIf you find an error or want to upgrade premium plan contact the owner.",
+      "menuStyle": 4,
+      "cover": "https://srv.neoxr.tk/files/Ff86r7.jpg",
+      "link": "https://chat.whatsapp.com/Dqb7Z2G5mqnIPSc6xbVWuH"
+   }
+}
